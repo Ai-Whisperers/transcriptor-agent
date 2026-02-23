@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+batch_stdout.log
+transcription_log.txt
+outputs/
+targets/

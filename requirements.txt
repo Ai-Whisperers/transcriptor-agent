@@ -1,0 +1,13 @@
+openai-whisper
+fastapi
+uvicorn[standard]
+typer
+pytest
+python-multipart
+torch
+torchaudio
+ffmpeg-python
+httpx
+openai
+python-dotenv
+groq
